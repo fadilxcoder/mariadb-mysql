@@ -2,15 +2,13 @@
 
 - `index.php` - connect with mariadb
 - Use `adminer.php` to connect to GUI
-- - *localhost:3307*
-- - *root*
-- - *root*
+- - HOST *localhost:3307*
+- - DB *maria_db_demo*
 
 ### Reference
 
-- https://mariadb.com/kb/en/installing-mariadb-msi-packages-on-windows/
+- https://mariadb.com/kb/en/installing-mariadb-msi-packages-on-windows/ (Depend on OS)
 - `my-mariadb-db.sql`
-
 
 ---
 

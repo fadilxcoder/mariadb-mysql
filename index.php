@@ -7,9 +7,8 @@
     <?php
 		$servername = 'localhost:3307';
 		$username = 'root';
-		$password = 'root';
-		$dbname = 'test';
-		$dbname = 'dataset_db';
+		$password = '';
+		$dbname = 'maria_db_demo';
          
 		$conn = new mysqli($servername, $username, $password, $dbname);
 
